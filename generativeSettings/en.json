@@ -1,0 +1,22 @@
+{
+  "fallbackSettings": {
+    "selectedPrompt": "Default"
+  },
+  "generativeSafetySettings": {
+    "bannedPhrases": [ {
+      "text": "fuckyou",
+      "languageCode": "en"
+    }, {
+      "text": "fuck",
+      "languageCode": "en"
+    } ]
+  },
+  "languageCode": "en",
+  "llmModelSettings": {
+    "model": "gemini-pro",
+    "parameters": {
+      "temperature": 0,
+      "inputTokenLimit": "INPUT_TOKEN_LIMIT_MEDIUM"
+    }
+  }
+}
