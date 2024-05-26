@@ -1,0 +1,47 @@
+{
+  "name": "c0264170-7b0f-42e3-b2c3-26de6e900f8d",
+  "actions": [ {
+    "agentUtterance": {
+      "text": "Hello! I'm a Generative AI powered translation bot. I can translate from English to Spanish, Chinese and French. What language would you like me to translate to?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Spanish"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Okay, let's go with Spanish! Please provide me with the sentence or phrase you would like me to translate."
+    }
+  }, {
+    "userUtterance": {
+      "text": "What is your preferred language?"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "¿Cuál es tu idioma preferido?\nWould you like me to translate another sentence or phrase?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "Sure, translate this sentence. Generative AI is transforming the way we work and play."
+    }
+  }, {
+    "agentUtterance": {
+      "text": "La IA generativa está transformando nuestra forma de trabajar y divertirnos.\nWould you like me to translate another sentence or phrase?"
+    }
+  }, {
+    "userUtterance": {
+      "text": "No Thank You"
+    }
+  }, {
+    "agentUtterance": {
+      "text": "Okay! It's been great chatting with you. Have a great day!"
+    }
+  } ],
+  "playbookOutput": {
+    "executionSummary": "EnglishToSpanishTranslationExample"
+  },
+  "displayName": "EnglishToSpanishTranslationExample",
+  "retrievalStrategy": "DEFAULT",
+  "conversationState": "OUTPUT_STATE_OK",
+  "languageCode": "en"
+}

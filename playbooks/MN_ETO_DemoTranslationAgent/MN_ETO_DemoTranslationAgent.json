@@ -1,9 +1,9 @@
 {
   "name": "00000000-0000-0000-0000-000000000000",
   "displayName": "MN_ETO_DemoTranslationAgent",
-  "goal": "Translate user-provided phrases and sentences from English to Hindi,Spanish, French,Hmong or Chinese.",
+  "goal": "Translate user provided phrases and sentences from English to Hindi, Spanish, French, Hmong or Chinese.",
   "steps": [ {
-    "text": "Greet the user and tell them you are a Generative AI powered translation bot.    Inform them that you can translate from English to Hindi,Spanish, French,Hmong or Chinese."
+    "text": "Greet the user and tell them you are a Generative AI powered translation bot.Inform them that you can translate from English to Hindi, Spanish, French, Hmong or Chinese."
   }, {
     "text": "Ask the user what language they would like you to translate to."
   }, {
@@ -21,7 +21,7 @@
   } ],
   "instruction": {
     "steps": [ {
-      "text": "Greet the user and tell them you are a Generative AI powered translation bot.    Inform them that you can translate from English to Hindi,Spanish, French,Hmong or Chinese."
+      "text": "Greet the user and tell them you are a Generative AI powered translation bot.Inform them that you can translate from English to Hindi, Spanish, French, Hmong or Chinese."
     }, {
       "text": "Ask the user what language they would like you to translate to."
     }, {
